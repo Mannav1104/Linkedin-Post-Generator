@@ -1,5 +1,10 @@
-# 🌿 Vanam AI Post Generator
 
+
+
+https://github.com/user-attachments/assets/501164db-327f-4273-aced-69c162f78bf2
+
+
+# 🌿 Vanam AI Post Generator
 **Vanam AI** is a simple, powerful, single-page web application that uses Generative AI (Groq & Llama 3.1) to help you write new LinkedIn posts that perfectly match your unique writing style.
 
 This is a **zero-install** project — it runs entirely in your browser from a single `index.html` file.
